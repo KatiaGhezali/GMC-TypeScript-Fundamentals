@@ -20,4 +20,4 @@ A simple Slack bot built with TypeScript, Node.js, and Slack Bolt. This project 
 ## Screenshots
 
 ![Hello message](/screenshots/test1.png)
-![Message logging](/screenshots/test1.png)
+![Message logging](/screenshots/test2.png)
